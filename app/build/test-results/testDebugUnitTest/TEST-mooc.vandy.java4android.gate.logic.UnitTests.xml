@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mooc.vandy.java4android.gate.logic.UnitTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-06-10T06:09:47" hostname="LAPTOP-7EO4TG1C" time="0.035">
+  <properties/>
+  <testcase name="testCorralSnailOutput" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.002"/>
+  <testcase name="testSimulateHerdOutput" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.002"/>
+  <testcase name="test24InHerd" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.002"/>
+  <testcase name="testSetCorralGates" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.0"/>
+  <testcase name="testSetGatesOut" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.018"/>
+  <testcase name="testEntryDown" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testAnyCorralAvailable" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.002"/>
+  <testcase name="testExitUp" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.001"/>
+  <testcase name="testClosedNone" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.002"/>
+  <testcase name="testSetGatesIn" classname="mooc.vandy.java4android.gate.logic.UnitTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

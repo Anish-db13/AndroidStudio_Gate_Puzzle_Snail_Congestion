@@ -1,0 +1,69 @@
+
+
+IYour assignment HAS NOT BEEN SUBMITTED. The following test results only
+estimate your grade.
+
+
+"Your estimated score is: 20.0/20
+L(This is not your actual grade for this assignment, just an estimate. Your
+Pofficial grade will be calculated after you submit your submission.zip file to
+
+Coursera.
+
+
+Q------------------------------Assignment Evaluation-----------------------------
+Q--------Your solution received points for the following grading rubrics:--------
+
+
+testSimulateHerdOutput
+Rubric Score: 3.0/3.0
+@Goal: The goal of this evaluation is to test SimulateHerdOutput
+NReference: This Test fails when: The herd.simulateHerd() output was incorrect
+
+testAnyCorralAvailable
+Rubric Score: 2.0/2.0
+@Goal: The goal of this evaluation is to test anyCorralAvailable
+OReference: This Test fails when anyCorralAvailable() returns the wrong result.
+
+testCorralSnailOutput
+Rubric Score: 3.0/3.0
+?Goal: The goal of this evaluation is to test CorralSnailOutput
+FReference: This Test fails when: The corralSnail output was incorrect
+
+testExitUp
+Rubric Score: 2.0/2.0
+4Goal: The goal of this evaluation is to test ExitUp
+PReference: This Test fails when: The Movement thru an OUT gate increased number
+
+testSetCorralGates
+Rubric Score: 2.0/2.0
+<Goal: The goal of this evaluation is to test setCorralGates
+@Reference: This Test fails when the gates are not properly set.
+
+testSetGatesOut
+Rubric Score: 1.0/1.0
+9Goal: The goal of this evaluation is to test SetGatesOut
+=Reference: This Test fails when: The Gate was not set to OUT
+
+testEntryDown
+Rubric Score: 2.0/2.0
+7Goal: The goal of this evaluation is to test EntryDown
+OReference: This Test fails when: The Movement thru an IN gate decreased number
+
+testSetGatesIn
+Rubric Score: 1.0/1.0
+8Goal: The goal of this evaluation is to test SetGatesIn
+<Reference: This Test fails when: The Gate was not set to IN
+
+test24InHerd
+Rubric Score: 2.0/2.0
+6Goal: The goal of this evaluation is to test 24InHerd
+OReference: This Test fails when: The Herd didn't maintain 24 snails upon each
+	movement
+
+testClosedNone
+Rubric Score: 2.0/2.0
+8Goal: The goal of this evaluation is to test ClosedNone
+PReference: This Test fails when: There was movement thru a gate that was closed
+
+
